@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--conpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/823d9921-e773-4747-9769-565e985dd2fb/resourceGroups/testgithub/providers/Microsoft.Synapse/workspaces/conpocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"conpocws1.1a545a84-c76a-4ae9-91c7-f5d5fd3737da.sql.azuresynapse.net"
+		]
+	}
+}
